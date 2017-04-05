@@ -496,12 +496,12 @@ h6,
 #header3-o .mbr-section-subtitle {
   text-align: center;
 }
-#social-buttons4-g .mbr-section-title,
-#social-buttons4-g .btn-social {
-  color: #fff;
-}
 #footer1-2 P {
   color: #000000;
+}
+#social-buttons4-16 .mbr-section-title,
+#social-buttons4-16 .btn-social {
+  color: #fff;
 }
 
 #ext_menu-i .hide-buttons .nav-btn {
