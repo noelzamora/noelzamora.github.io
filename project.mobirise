@@ -227,9 +227,9 @@
           "_anchor": "social-buttons4-g",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
+            "parallax": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": true,
